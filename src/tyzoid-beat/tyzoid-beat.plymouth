@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Arch Beat
+Description=Arch beat theme.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/tyzoid-beat
+ScriptFile=/usr/share/plymouth/themes/tyzoid-beat/tyzoid-beat.script
